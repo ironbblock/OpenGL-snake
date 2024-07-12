@@ -1,0 +1,3 @@
+﻿  snake.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  OpenGL.vcxproj -> D:\code\proj_cpp\OpenGL\x64\Debug\OpenGL.exe
